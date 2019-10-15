@@ -144,6 +144,10 @@ Books for Java Programming Language.
 
 ##### Spring 实战
 
+* 第5版-英文版（含源码）
+
+    [Spring实战（第5版）-英文版.2018.10（涵盖Spring5.0）.含源码[16M].zip](https://github.com/lj1218/ebooks-cs-programming-java/raw/master/books/JavaWeb/Spring/Spring实战（第5版）/Spring实战（第5版）-英文版.2018.10（涵盖Spring5.0）.含源码[16M].zip)
+
 * 第4版-中文版
 
     [Spring实战（第4版）-中文版[49M].pdf](https://github.com/lj1218/ebooks-cs-programming-java/raw/master/books/JavaWeb/Spring/Spring实战（第4版）/Spring实战（第4版）-中文版[49M].pdf)
